@@ -1,0 +1,50 @@
+INSIGHTS PRINCIPAIS — ANÁLISE EXPLORATÓRIA TITANIC
+
+1.  Impacto do Sexo na Sobrevivência
+
+A taxa de sobrevivência entre mulheres foi aproximadamente 74%, enquanto
+entre homens foi de cerca de 19%, representando uma diferença superior a
+55 pontos percentuais.
+
+Esse resultado indica que o fator sexo exerceu influência determinante
+na probabilidade de sobrevivência. O padrão observado é consistente com
+o protocolo histórico de evacuação conhecido como “mulheres e crianças
+primeiro”, sugerindo que a sobrevivência não ocorreu de maneira
+aleatória.
+
+------------------------------------------------------------------------
+
+2.  Impacto da Classe Social
+
+Passageiros da 1ª classe apresentaram taxa de sobrevivência próxima a
+63%, enquanto passageiros da 3ª classe apresentaram taxa inferior a 25%,
+resultando em diferença aproximada de 38 pontos percentuais.
+
+Esse padrão evidencia influência de fatores socioeconômicos no acesso
+aos botes salva-vidas, possivelmente associados à localização das
+cabines, prioridade de embarque e organização estrutural do navio.
+
+------------------------------------------------------------------------
+
+3.  Efeito Combinado: Sexo + Classe
+
+A combinação “mulher da 1ª classe” apresentou a maior taxa de
+sobrevivência observada na base de dados.
+
+Em contraste, “homens da 3ª classe” apresentaram as menores taxas.
+
+Isso demonstra que sexo e classe não atuaram isoladamente, mas de forma
+cumulativa, amplificando desigualdades na probabilidade de
+sobrevivência.
+
+------------------------------------------------------------------------
+
+4.  Padrão Estrutural Identificado
+
+Os dados sugerem que a sobrevivência foi fortemente condicionada por
+fatores sociais e estruturais, e não apenas por acaso.
+
+A análise reforça como desigualdades pré-existentes podem influenciar
+desfechos em situações críticas.
+
+------------------------------------------------------------------------
