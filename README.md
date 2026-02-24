@@ -108,3 +108,4 @@ No terminal, dentro da pasta do projeto:
 ```bash
 py -m pip install -r requirements.txt
 py main.py
+```
